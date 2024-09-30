@@ -1,0 +1,58 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.all{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+
+.img{
+    align-content: center;
+    width: 250px;
+
+}
+
+.top{
+    color: orangered;
+    font-size: 3rem;
+}
+.start{
+    color: green;
+    text-align:  center;
+    font-size: 2rem;
+}
+.box{
+    display: grid;
+    gap: 5px;
+
+    
+}
+input{
+    background: rgb(210, 209, 209);
+    border-radius: 5px;
+}
+.but{
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    background: green;
+    font-size: large;
+    cursor: pointer;
+    box-shadow: -3px -2px 5px orangered; 
+    width: 90px;
+    height: 30px;
+    text-decoration: none;
+    border-radius: 20px;
+    
+    
+}
+.down{
+    color: orangered;
+    text-align: center;
+    font-size: 1rem;
+    
+}

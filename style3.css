@@ -1,0 +1,43 @@
+*{
+    padding: 0px;
+    margin: 0px;
+
+}
+
+.container{
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    gap: 50px;
+}
+
+input{
+    background: rgb(213, 180, 180);
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.buttom{
+
+    text-align: center;
+    align-content: center;
+    font-size: larger;
+    background: green;
+    width: 130px;
+    cursor: pointer;
+    box-shadow: -5px 1px 0px rgb(196, 72, 27) ;
+    color: black;
+    height: 40px;
+   cursor: pointer;
+   border-radius: 20px;
+}
+
+h4{
+    
+    font-size: x-large;
+    text-align: center;
+    cursor: pointer;
+}
+a{
+    text-decoration: none;
+}
